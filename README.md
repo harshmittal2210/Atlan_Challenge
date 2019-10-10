@@ -14,3 +14,6 @@ use standard size polygons also to cluster the points.
 
 ## Data Collection
 Open the Data_collecion jupyter Notebook for complete code. Data is collected for different zones and features like location, id and tags are saved in csv file for furter processing.
+
+## Solution
+Using the data generated above I have applied K means method is order to find the clusters. Refer to K_means jupyter notebook for the same.
