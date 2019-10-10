@@ -11,3 +11,6 @@ language of choice.
 use standard size polygons also to cluster the points.
 4. Find and label the most significant clusters, statistically and intuitively.
 5. Visualize the resultant commercial centres/markets.
+
+## Data Collection
+Open the Data_collecion jupyter Notebook for complete code. Data is collected for different zones and features like location, id and tags are saved in csv file for furter processing.
